@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a2a03b395633c045b6efdf10eb37394, type: 3}
+  m_Name: LeaveMain
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueSO
+  lines:
+  - speaker: {fileID: 11400000, guid: 4a428d067693ea34daf8f88198fe3459, type: 2}
+    text: Speak with the monk first, traveler, before you set out.
+  - speaker: {fileID: 11400000, guid: 22cf4ed06f0245643abbc233d4af9f90, type: 2}
+    text: "Alright, I\u2019ll speak with the monk."
+  - speaker: {fileID: 11400000, guid: 22cf4ed06f0245643abbc233d4af9f90, type: 2}
+    text: "If it helps my journey, I\u2019ll go. But where will I find the monk?"
+  - speaker: {fileID: 11400000, guid: 4a428d067693ea34daf8f88198fe3459, type: 2}
+    text: Head toward the hill just beyond the village
+  - speaker: {fileID: 11400000, guid: 4a428d067693ea34daf8f88198fe3459, type: 2}
+    text: "You\u2019ll find him toward the hill, past the village."
+  - speaker: {fileID: 11400000, guid: 22cf4ed06f0245643abbc233d4af9f90, type: 2}
+    text: "I\u2019ll head out now."
+  options: []
+  offerQuestOnEnd: {fileID: 0}
+  requiredCompletedQuests: []
+  turnInQuestOnEnd: {fileID: 0}
+  requiredNPCs: []
+  requiredLocations: []
+  requiredItems: []
+  removeAfterPlay: 0
+  removeTheseOnPlay: []

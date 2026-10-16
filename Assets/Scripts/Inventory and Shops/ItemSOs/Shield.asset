@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3a9956df67bd144bbf2db20afd9eddd, type: 3}
+  m_Name: Shield
+  m_EditorClassIdentifier: Assembly-CSharp::ItemSO
+  itemName: Shield
+  itemDescription: It's a Shield to protect us from enemy attack
+  icon: {fileID: 21300000, guid: a1ce5e93205074fa0b03cc1070dbdeca, type: 3}
+  isGold: 0
+  isEXP: 0
+  stackSize: 16
+  currentHealth: 0
+  maxHealth: 0
+  speed: 5
+  damage: 0
+  Duration: 10
